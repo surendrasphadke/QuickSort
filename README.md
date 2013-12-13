@@ -1,4 +1,4 @@
 QuickSort
 =========
 
-Demonstrates quick sort recursive implementation 
+Demonstrates quick sort recursive implementation in C# console application
